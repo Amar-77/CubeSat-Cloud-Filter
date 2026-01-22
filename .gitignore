@@ -1,0 +1,12 @@
+# massive raw dataset
+Amar_Satellite_Raw_Data/
+camera_raw_data/
+
+# output buffers 
+to_downlink/
+
+# Python system files & virtual env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
