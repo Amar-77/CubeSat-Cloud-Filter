@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Embedded%20%2F%20OBC-lightgrey?style=for-the-badge)
 
 <p align="center">
-  <img src="[assets/demo_false_color.png](https://github.com/Amar-77/CubeSat-Cloud-Filter/blob/main/assets/demo_false_color.jpeg?raw=true)" alt="False Color Analysis" width="100%">
+  <img src="https://raw.githubusercontent.com/Amar-77/CubeSat-Cloud-Filter/refs/heads/main/assets/demo_false_color.jpeg" alt="False Color Analysis" width="100%">
   <br>
   <em>Figure 1: Ground Station verification. The system uses False Color Infrared analysis to distinguish between Snow (Cyan) and Clouds (White/Pink), ensuring valuable scientific data is not deleted by mistake.</em>
 </p>
