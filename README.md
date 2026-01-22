@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github.com/Amar-77/CubeSat-Cloud-Filter/blob/main/assets/demo_image.png" alt="False Color Analysis" width="100%">
   <br>
-  <em>Figure 1: Ground Station verification. The system uses False Color Infrared analysis to distinguish between Snow (Cyan) and Clouds (White/Pink), ensuring valuable scientific data is not deleted by mistake.</em>
+  <em>Figure 1: Ground Station verification. The system uses False Color Infrared analysis (Right Panel) to differentiate Cloud Cover (White) from Ground Features. Note how <strong>Vegetation appears Red</strong> in the False Color view, making it easy for the AI to distinguish it from clouds.</em>
 </p>
 
 ---
